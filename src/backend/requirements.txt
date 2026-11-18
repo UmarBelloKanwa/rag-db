@@ -64,7 +64,7 @@ cryptography==45.0.5
     #   azure-identity
     #   msal
     #   pyjwt
-deprecated==1.2.18
+deprecated==3.0.1
     # via
     #   opentelemetry-api
     #   opentelemetry-semantic-conventions
